@@ -18,7 +18,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 ## Authors
 
-### :bust_in_silhouette: Ivan Silva
+### :bust_in_silhouette: Ntare Guy
 - GitHub: [@41hulk](https://github.com/41hulk)
 - LinkedIn: [Ntare Guy](https://www.linkedin.com/in/ntare-guy/)
 
